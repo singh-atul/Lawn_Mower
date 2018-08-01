@@ -1,0 +1,2 @@
+keyboard_control:waypoint_nav/hector_slam/hector_mapping_nav:waypoint_nav/husky_customization/husky_custom_description:waypoint_nav/husky_customization/husky_custom_gazebo:waypoint_nav/husky_navigation:waypoint_nav/outdoor_waypoint_nav:waypoint_nav/slam_gmapping/gmapping:waypoint_nav/slam_gmapping/slam_gmapping
+-DCATKIN_DEVEL_PREFIX=/home/agv/simulation_ws/devel -DCMAKE_INSTALL_PREFIX=/home/agv/simulation_ws/install -G Unix Makefiles

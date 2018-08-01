@@ -1,0 +1,8 @@
+prefix=/home/agv/simulation_ws/devel
+
+Name: hector_mapping_nav
+Description: Description of hector_mapping_nav
+Version: 0.0.0
+Cflags: -I/home/agv/simulation_ws/devel/include -I/home/agv/simulation_ws/src/waypoint_nav/hector_slam/hector_mapping_nav/include -I/usr/include/eigen3
+Libs: -L/home/agv/simulation_ws/devel/lib 
+Requires: roscpp nav_msgs visualization_msgs tf message_filters laser_geometry tf_conversions message_runtime
